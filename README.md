@@ -29,5 +29,3 @@ Projeto inicial em Java Desktop com Swing, MySQL e JPA/EclipseLink.
 
 O projeto foi organizado com Maven para facilitar a abertura no NetBeans e baixar automaticamente as dependências:
 EclipseLink, JPA API e MySQL Connector/J.
-Caso o professor peça exatamente Java Ant, crie um projeto Java Ant no NetBeans e copie os pacotes `Apresentacao`,
-`DataAccess`, `DomainModel` e o arquivo `META-INF/persistence.xml`, adicionando as bibliotecas conforme o tutorial.
